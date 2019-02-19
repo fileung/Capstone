@@ -30,7 +30,8 @@ to display all graphs<br/>
 search: \w <br/>
 <br/>
 <b>Data</b><br/>
-These .csv files can also be download for free at:<br/>
+The csv files are too large to upload.<br/>
+please download the csv file for free at:<br/>
   http://www.cryptodatadownload.com<br/>
 <br/>
 Direct links to download:<br/>
