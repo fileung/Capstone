@@ -1,12 +1,12 @@
 # Capstone
 
-Project Status: Incomplete, cancelled
-
-Setup on Ubuntu
-
-Conda new environment
+Project Status: Incomplete, cancelled<br/>
+<br/>
+Setup on Ubuntu<br/>
+<br/>
+Conda new environment<br/>
 $conda create -n capstone python==3.5.2<br/>
-$source activate capstone
+$source activate capstone<br/>
 
 Install required packages
 $conda install numpy scipy pandas matplotlib jupyter scikit-learn tqdm
