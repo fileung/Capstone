@@ -1,5 +1,6 @@
 # Capstone
-Status - Incomplete, cancelled
+
+Project Status: Incomplete, cancelled
 
 Setup on Ubuntu
 
