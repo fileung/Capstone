@@ -1,6 +1,6 @@
 # Capstone
 
-<h2>Project Status: Cancelled</h2><br/>
+<h4>Project Status: Cancelled</h4><br/>
 1. Proposal: Passed<br/>
 2. Code in Notebook: Completed, Model prediction achieved >0.5, Not Submitted<br/>
 3. Project Report: Incomplete, Not Submitted<br/>
