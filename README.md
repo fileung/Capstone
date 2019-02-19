@@ -24,7 +24,7 @@ Run Tensorboard to view model training performance<br/>
 $tensorboard --logdir=logs/<br/>
 <br/>
 browse to<br/>
-http://<your machine name>:6006<br/>
+http://&lt;your machine name>:6006<br/>
 <br/>
 to display all graphs<br/>
 search: \w <br/>
