@@ -5,7 +5,7 @@ Project Status: Incomplete, cancelled
 Setup on Ubuntu
 
 Conda new environment
-$conda create -n capstone python==3.5.2
+$conda create -n capstone python==3.5.2<br/>
 $source activate capstone
 
 Install required packages
