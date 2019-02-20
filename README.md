@@ -33,7 +33,8 @@ to display all graphs<br/>
 search: \w <br/>
 <br/>
 <b>Data</b><br/>
-The csv files are too large to upload.<br/>
+The csv files originally in /data/minute/<br/>
+but the csv files are over 25MB and too large to upload.<br/>
 please download the csv file for free at:<br/>
   http://www.cryptodatadownload.com<br/>
 <br/>
