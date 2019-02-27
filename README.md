@@ -1,7 +1,6 @@
 # Capstone
 
 <h4>Project Status: Passed</h4><br/>
-<br/>
 <b>Setup on Ubuntu</b><br/>
 <br/>
 Conda new environment<br/>
