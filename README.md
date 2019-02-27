@@ -1,9 +1,6 @@
 # Capstone
 
 <h4>Project Status: Passed</h4><br/>
-1. Proposal: Passed<br/>
-2. Code in Notebook: Passed<br/>
-3. Project Report: Passed<br/>
 <br/>
 <b>Setup on Ubuntu</b><br/>
 <br/>
